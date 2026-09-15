@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
       <br/><br/>
-      <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=Youssef-Moawad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
     </td>
   </tr>
 </table>
@@ -60,9 +60,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef-Moawad/Youssef-Moawad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef-Moawad/Youssef-Moawad/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Youssef-Moawad/Youssef-Moawad/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>

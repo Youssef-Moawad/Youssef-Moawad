@@ -11,10 +11,10 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="65%" valign="top">
+   <td width="65%" valign="top">
       <h3>🚀 Who Am I?</h3>
       <p>
-        I'm a passionate <b>Backend & Systems Engineer</b> with a background in <b>Communication & Electronics Engineering</b>. I focus on engineering clean, scalable APIs, relational data architecture, and bridging software with embedded hardware.
+        I'm a passionate <b>Backend & Systems Engineer</b> holding a B.Sc. in <b>Electronics & Communications Engineering</b>. I focus on engineering clean, scalable APIs, relational data architecture, and bridging software with embedded hardware.
       </p>
       <ul>
         <li>💻 <b>Core Stack:</b> Node.js, Express.js, TypeScript, RESTful APIs</li>

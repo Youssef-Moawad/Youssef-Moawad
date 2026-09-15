@@ -26,11 +26,11 @@
     <td width="35%" align="center" valign="middle">
       <h3>🌐 Contact & Connect</h3>
       <br/>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <a href="https://linkedin.com/in/youssef-moawad-07342724b" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
       <br/><br/>
-      <a href="mailto:YOUR_EMAIL@gmail.com">
+      <a href="mailto:youssefmoawad111@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
       <br/><br/>
